@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Jest
 - 💞️ I’m looking to collaborate on any open source project 
-- 📫 How to reach me KenWheattTheDeveloper@gmail.com
+
 
 <!---
 Onxy2/Onxy2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
